@@ -4,7 +4,7 @@
 # Self-contained GitHub Actions workflow. It replaces the old
 # .github/workflows/build-kernel.yml (delete that file: both share the same
 # name and push trigger, and run numbers differ per workflow, so release tags
-# could collide). It builds all 8 variants for 6.6.89
+# could collide).. It builds all 8 variants for 6.6.89
 # and auto-releases them without needing to edit scripts/apply-droidspaces-config.sh
 # or scripts/release-notes.sh:
 #
