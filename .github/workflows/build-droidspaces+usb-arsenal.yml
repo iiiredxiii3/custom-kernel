@@ -13,7 +13,7 @@
 #   3. droidspaces-enforcing             DroidSpaces only, SELinux enforcing.
 #   4. droidspaces-permissive            DroidSpaces only, SELinux permissive.
 #   5. usbarsenal-enforcing              USB-Arsenal only, SELinux enforcing.
-#   6. usbarsenal-permissive             USB-Arsenal only, SELinux permissive.
+#   6.. usbarsenal-permissive             USB-Arsenal only, SELinux permissive.
 #   7. droidspaces-usbarsenal-enforcing  DroidSpaces + USB-Arsenal, SELinux enforcing.
 #   8. droidspaces-usbarsenal-permissive DroidSpaces + USB-Arsenal, SELinux permissive.
 #
